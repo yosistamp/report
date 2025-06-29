@@ -1,0 +1,30 @@
+# AWS Summit 2025 レポート
+
+## harmonix
+
+- オールインワンとプラグインがある。
+- アカウントを指定して、テンプレートをデプロイすることができる。（通常のbackstageでもできるが、UIが最適化されている。）
+- オールオンワンはecs前提のコンテナ。
+- okta、cmgnito、アクティブディレクトリと連携。
+- EC2にGitLab。
+
+backstageから直接デプロイは後々考える。
+
+## cnoe
+
+backstageのeksテンプレート
+
+## codeconnection
+これだけ大阪でほかは東京の構成もいけそう。要検証。
+
+## diagram-as-code
+
+```
+http://github.com/awslabs/diagram-as-code
+```
+
+コツは質問に対して生き有答えを考えるのではなく、アーキテクチャ図を生成するために必要な情報が足りなければインタラクティブに聞きながら情報を集める。
+
+https://aws.amazon.com/jp/summits/japan
+
+https://pages.awscloud.com/rs/112-TZM-766/images/AWS_Summit_2025_A-12A_SaaS_References.pdf
