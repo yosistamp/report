@@ -35,6 +35,10 @@ https://aws.amazon.com/jp/blogs/news/aws-summit-japan-2025-iot-mini4wd/
 
 https://pages.awscloud.com/rs/112-TZM-766/images/AWS_Summit_2025_A-12A_SaaS_References.pdf
 
+## ECSサービス間通信
+
+https://speakerdeck.com/tkikuc/selection-of-ecs-interservice-communication-2025
+
 ## トップ
 
 https://aws.amazon.com/jp/summits/japan
